@@ -13,3 +13,5 @@ In caroServer folder: <br>
 `npm install --save socket.io` -> install package socket.io server <br>
 `npm install --save - g nodemon` -> install package nodemon, when modify code we don't need to run server again<br>
 `nodemon server.js` -> run server file with nodemon
+
+<!-- Thanks to ytb Lập Trình Viên TV -->
